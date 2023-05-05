@@ -24,6 +24,7 @@
     align-items: center;
     width: 100%;
     flex:1;
+    background-image: url(/public/images/hero.png);
   }
   
   .hero-image {
